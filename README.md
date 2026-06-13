@@ -1,5 +1,10 @@
 # Full-Stack Amazon Clone | React, Firebase, Stripe & Material UI
 
+## 🚀 Live Demo
+
+Click here to view the project:
+👉 https://challenge-38b56.web.app
+
 ## Overview
 
 This project is a full-stack Amazon-inspired e-commerce application built using React, Firebase, Stripe, and Material UI. The application replicates key functionalities of a modern online shopping platform, including user authentication, product browsing, shopping cart management, secure payment processing, and order history tracking.
